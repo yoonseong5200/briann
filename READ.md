@@ -1,3 +1,16 @@
-HELLO WWWOOORRRRLLLDDD
+Hello World
 
-GGGOOODDD
+JAVASCRIPT Course
+
+Next Semester Python
+
+Artificial Intelligence
+
+Python
+
+MATLAB
+
+##Big Data
+
+60122080 박윤성
+
